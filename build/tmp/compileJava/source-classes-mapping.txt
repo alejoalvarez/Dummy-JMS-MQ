@@ -1,0 +1,6 @@
+com/ibm/mq/samples/jms/Producer.java
+ com.ibm.mq.samples.jms.Producer
+com/ibm/mq/samples/jms/App.java
+ com.ibm.mq.samples.jms.App
+com/ibm/mq/samples/jms/JmsPutGet.java
+ com.ibm.mq.samples.jms.JmsPutGet
